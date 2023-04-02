@@ -1,16 +1,16 @@
 # Data Science Awareness
 
 Data science is not about:
-• Using the latest tools
-• Plotting the best graphs
-• Building the best ML model
-• Having the fancy title "Data Scientist"
+1. Using the latest tools
+2. Plotting the best graphs
+3. Building the best ML model
+4. Having the fancy title "Data Scientist"
 
 Data science is about:
-• Understanding the business problem
-• Being curious to understand the data
-• Getting insights from data to solve the problem
-• Convincing stakeholders to take action
+1. Understanding the business problem
+2. Being curious to understand the data
+3. Getting insights from data to solve the problem
+4. Convincing stakeholders to take action
 
 Remember,
 You're a problem solver, Get the foundation right. 💪💪
