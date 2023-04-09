@@ -47,3 +47,8 @@ Truth: Even with small datasets, splitting data is crucial to prevent overfittin
 Truth: Random splitting is a common approach, but it may not be suitable for all cases. For time-series data, maintaining the temporal order is essential. In cases with class imbalance, stratified sampling should be used to ensure the proportion of classes is maintained in each subset.
 
 Remember that data splitting is important to create a reliable and robust machine learning model. There are various techniques and considerations to ensure the splitting process is effective for your problem.
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
