@@ -12,8 +12,8 @@ Data science is about:
 3. Getting insights from data to solve the problem
 4. Convincing stakeholders to take action
 
-Remember,
-You're a problem solver, Get the foundation right. 💪💪
+[Remember,
+You're a problem solver, Get the foundation right. 💪💪]
 
 # If you just start your machine learning journey, you must learn about data splitting.
 
