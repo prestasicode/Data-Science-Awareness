@@ -15,7 +15,7 @@ Data science is about:
 Remember,
 You're a problem solver, Get the foundation right. 💪💪
 
-🚀 If you just start your machine learning journey, you must learn about data splitting.
+# If you just start your machine learning journey, you must learn about data splitting.
 
 Splitting data is a process of splitting the original data into various datasets. The data is typically split into training, validation, and test sets.
 
